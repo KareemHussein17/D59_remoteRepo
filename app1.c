@@ -3,7 +3,7 @@
 
 int main()
 {
-printf("first application_1 test");
+printf("seconed application_1 test");
 
 return 0;
 }
